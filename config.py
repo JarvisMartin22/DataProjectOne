@@ -1,1 +1,1 @@
-key = "AIzaSyAYgqF-JNKDi3XmIpA7d408o4SGZHUr0C4"
+gkey = "AIzaSyAKuJkIkHBI2qn5rXMapkif-fx-ieXWRRY"
